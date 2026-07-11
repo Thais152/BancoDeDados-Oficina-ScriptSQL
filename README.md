@@ -1,4 +1,4 @@
- Desafio Banco de dados da Oficina | Treinamento DIO
+# Criação de banco de dados de uma Oficina | 💡💡💡
 
 Esse banco de dados contém 11 tabelas: clients, mechanic, orders, pessoafísica, pessoajuridica, piece, responsibleteam, service, serviceorder, serviceorderpiece, serviceorderservice. Todas com suas PKs e FKs para formar os relacionamentose com inserção de dados. 
 
